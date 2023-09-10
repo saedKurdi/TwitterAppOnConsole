@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\bin\Debug\net6.0\InstagramConsoleApp.exe
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\bin\Debug\net6.0\InstagramConsoleApp.deps.json
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\bin\Debug\net6.0\InstagramConsoleApp.runtimeconfig.json
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\bin\Debug\net6.0\InstagramConsoleApp.dll
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\bin\Debug\net6.0\InstagramConsoleApp.pdb
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\obj\Debug\net6.0\InstagramConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\obj\Debug\net6.0\InstagramConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\obj\Debug\net6.0\InstagramConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\obj\Debug\net6.0\InstagramConsoleApp.AssemblyInfo.cs
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\obj\Debug\net6.0\InstagramConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\obj\Debug\net6.0\InstagramConsoleApp.dll
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\obj\Debug\net6.0\refint\InstagramConsoleApp.dll
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\obj\Debug\net6.0\InstagramConsoleApp.pdb
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\obj\Debug\net6.0\InstagramConsoleApp.genruntimeconfig.cache
+C:\Users\Asus\source\repos\InstagramConsoleApp\InstagramConsoleApp\obj\Debug\net6.0\ref\InstagramConsoleApp.dll
